@@ -28,11 +28,11 @@
 
 <br> 
 
-<h2> <b> Languages</b></h2>
+<h2> <b> Languages and tools </b></h2>
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,replit,vscode,github,discord)](https://skillicons.dev)
 
 
 
