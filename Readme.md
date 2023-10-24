@@ -17,10 +17,5 @@
   </td>
 </tr>
 </table>
-
-Languages and Tools:
-<p align="left">
-  <a href="https://skillicons.dev%22%3E/
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" />
-  </a>
-</p> 
+<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
+<h2> Languages i've worked with</h2> (https://skillicons.dev/icons?i=js,html,css)
