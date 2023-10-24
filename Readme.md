@@ -17,5 +17,10 @@
   </td>
 </tr>
 </table>
+
+
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
-<h2> Languages i've worked with</h2> (https://skillicons.dev/icons?i=js,html,css)
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
