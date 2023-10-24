@@ -24,7 +24,7 @@
 </table>
 
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
-<p> <b> I'm an front-end junior developer, Whose currently works with the basic of front-end.</b></p>
+<p> <b> I'm an front-end junior developer, Whose currently works with the basic of front-end.</b></p> <picture><img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width= 30ox align="right"</picture>
 
 
 <br> 
@@ -33,7 +33,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,replit,vscode,github,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,replit,vscode,github,discord,codepen)](https://skillicons.dev)
 
 
 
