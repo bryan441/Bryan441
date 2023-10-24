@@ -24,6 +24,7 @@
 </table>
 
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
+<p> <b> I'm an front-end junior developer, Whose currently works with the basic of front-end.</b></p>
 
 
 <br> 
