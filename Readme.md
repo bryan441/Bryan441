@@ -17,17 +17,9 @@
 </tr>
 </table>
 
- Languages and Tools:
-
-<p align="left">
-  <a href="https://skillicons.dev%22%3E/
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" />
-  </a>
-</p>agora esse
 Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev%22%3E/
     <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" />
   </a>
 </p> 
-agora esse
