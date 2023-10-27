@@ -35,7 +35,7 @@
 
 <h2> <b> Tools </b></h2>
 
-[![My Tools](https://skillicons.dev/icons?i=replit,vscode,github,discord,codepen)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=replit,vscode,github,discord,codepen)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 
 
