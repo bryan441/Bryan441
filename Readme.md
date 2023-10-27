@@ -37,6 +37,6 @@
 
 [![My Tools](https://skillicons.dev/icons?i=replit,vscode,github,discord,codepen)](https://skillicons.dev)
 
-
+<h3> Spotify overview</h3>
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31mkaggzzmgmkysxfbpte2cu6qce)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
