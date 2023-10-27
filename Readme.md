@@ -35,11 +35,8 @@
 
 <h2> <b> Tools </b></h2>
 
-[![My Tools](https://skillicons.dev/icons?i=replit,vscode,github,discord,codepen)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+[![My Tools](https://skillicons.dev/icons?i=replit,vscode,github,discord,codepen)](https://skillicons.dev)
 
-
-
-<img alt="Discord" src="" data-canonical-src="https://img.shields.io/badge/fariasbh2010%E2%B5%8C8977-%237289DA.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;">
 
 
 
