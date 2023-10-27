@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
+[![MasterHead](https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 
 <h1 align="center"><i>Hi!! </i> <b style="background-color✅">You can call me bryan</b> </h1>
